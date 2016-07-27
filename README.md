@@ -1,0 +1,2 @@
+# Climate-Dynamics-Models
+an international effort to develop System Dynamics models that simulate the subtle and sudden changes to climate conditions and the impact of those changes on complex human ecosystems.  These are large scale cause and effect policy simulations that can leverage historical Climate Event Data to provide data insights for policy-makers, environmental engineers, and systems thinkers around the world.  They combine weather changes and events with social sciences and a variety of Open Data records. 
